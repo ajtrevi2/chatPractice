@@ -10,9 +10,10 @@ public class Main
 
     public static void main(String[] args)
     {
-        behindScene scene = new behindScene();
-        client.go;
+        Frame client = new Frame();
+        client.go();
+
 
 
     }
-}
+            }

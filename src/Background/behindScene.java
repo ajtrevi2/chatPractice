@@ -1,10 +1,13 @@
 package Background;
+import javax.swing.*;
+import java.awt.*;
 import java.io.*;
 import java.net.*;
 
 public class behindScene
 {
-    public void test()
+
+   /* public void test()
     {
         try {
             //reading the data sent from a user
@@ -23,5 +26,9 @@ public class behindScene
         {
             ex.printStackTrace();
         }
-    }
+    }*/
+
+   //creating chat client
+
+
 }
